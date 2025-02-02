@@ -1,0 +1,32 @@
+  {
+    "_id": ObjectId("..."),
+    "marca": "Rayban",
+    "proveedor_id": ObjectId("..."),
+    "graduacion": {
+      "izq": 2.3,
+      "der": 2.0
+    },
+    "tipo_montura": "metálica",
+    "color_montura": "Negro",
+    "color_vidrios": {
+      "izq": "Transparente",
+      "der": "Transparente"
+    },
+    "precio": 127.0,
+  },
+  {
+    "_id": ObjectId("..."),
+    "marca": "Oakley",
+    "proveedor_id": ObjectId("..."),
+    "graduacion": {
+      "izq": 1.5,
+      "der": 1.8
+    },
+    "tipo_montura": "pasta",
+    "color_montura": "Rojo",
+    "color_vidrios": {
+      "izq": "Azul",
+      "der": "Azul"
+    },
+    "precio": 150.0
+  }
