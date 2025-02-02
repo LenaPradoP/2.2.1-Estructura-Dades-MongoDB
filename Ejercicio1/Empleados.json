@@ -1,20 +1,12 @@
-{
-  "$jsonSchema": {
-    "bsonType": "object",
-    "required": ["nombre", "telefono", "email"],
-    "properties": {
-      "_id": {
-        "bsonType": "objectId"
-      },
-      "nombre": {
-        "bsonType": "string"
-      },
-      "telefono": {
-        "bsonType": "string"
-      },
-      "email": {
-        "bsonType": "string"
-      }
-    }
+  {
+    "_id": "641d1f8f1c9d440000a1a333",
+    "nombre": "María Gómez",
+    "telefono": "987654321",
+    "email": "maria.gomez@example.com"
+  },
+  {
+    "_id": "641d1f8f1c9d440000a1a334",
+    "nombre": "Carlos López",
+    "telefono": "654321987",
+    "email": "carlos.lopez@example.com"
   }
-}
