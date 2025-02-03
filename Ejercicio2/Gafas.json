@@ -1,5 +1,4 @@
-  { /*Para almacenar las gafas que hay en stock. Al haber inscrustado las vendidas en clientes, la verdad es que 
-  no me queda claro si sería mejor omitirlas aquí o duplicarlas. */
+  {
     "_id": "ObjectId()",
     "marca": "Oakley",
     "_id_proveedor": "ObjectId()",
@@ -13,5 +12,13 @@
       "izq": "Azul",
       "der": "Azul"
     },
-    "precio": 150.0
+    "precio": 150.0,
+    "id_proveedor": "ObjectId()",
+    "compradas_por": 
+    [
+      {
+    "_id_cliente": "ObjectId()",
+        }
+    ],
+    }
   }

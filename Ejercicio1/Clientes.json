@@ -1,0 +1,30 @@
+
+  {
+    "_id": "ObjectId()",
+    "nombre": "Juan Pérez",
+    "direccion": "Calle Falsa 123, Ciudad, País",
+    "telefono": "+34 123456789",
+    "email": "juan.perez@gmail.com",
+    "fecha_registro": "ISODate()",
+    "cliente_referencia": "ObjectId()",
+    "compras_recientes": [
+      {
+        "gafa": {
+          "_id": "ObjectId()",
+          "marca": "Rayban",
+          "graduacion": {
+            "izq": 2.3,
+            "der": 2.0
+          },
+          "tipo_montura": "Metálica",
+          "color_montura": "Metálico",
+          "color_vidrios": {
+            "izq": "Transparente",
+            "der": "Transparente"
+          },
+          "precio": 120.0,
+          "_id_venta": "ObjectId()",
+        }
+      }
+    ]
+  }

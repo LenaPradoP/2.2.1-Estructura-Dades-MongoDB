@@ -1,22 +1,6 @@
 
   {
     "_id": "ObjectId()",
-    "nombre": "Rayban",
-    "direccion": {
-      "calle": "Avenida Principal",
-      "numero": 45,
-      "piso": "2º",
-      "puerta": "B",
-      "ciudad": "Barcelona",
-      "codigo_postal": "08001",
-      "pais": "España"
-    },
-    "telefono": "987654321",
-    "fax": "987654322",
-    "NIF": "A12345678"
-  },
-  {
-    "_id": "ObjectId()",
     "nombre": "Oakley",
     "direccion": {
       "calle": "Calle del Proveedor",

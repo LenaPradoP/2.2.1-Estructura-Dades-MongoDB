@@ -1,0 +1,10 @@
+
+  {
+    "_id": "ObjectId()",
+    "nombre": "Juan Pérez",
+    "direccion": "Calle Falsa 123, Ciudad, País",
+    "telefono": "+34 123456789",
+    "email": "juan.perez@gmail.com",
+    "fecha_registro": "ISODate()",
+    "cliente_referencia": "ObjectId()",
+  }

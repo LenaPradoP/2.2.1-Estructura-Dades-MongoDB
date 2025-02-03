@@ -1,0 +1,13 @@
+{
+    "_id": "ObjectId()",
+    "fecha_compra": "ISODate()",    
+    "_id_empleado": "ObjectId()",
+    "_id_cliente": "ObjectId()",
+    "productos": 
+    [
+        {
+        "_id_gafas": "ObjectId()",
+        }
+    ],
+    "importe_total": 120.5,
+}
