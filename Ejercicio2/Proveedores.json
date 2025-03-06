@@ -1,7 +1,7 @@
 
   {
     "_id": "ObjectId()",
-    "nombre": "Oakley",
+    "nombre": "Distribuidor de Gafas",
     "direccion": {
       "calle": "Calle del Proveedor",
       "numero": 10,
