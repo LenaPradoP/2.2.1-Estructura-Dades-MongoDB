@@ -1,6 +1,7 @@
   {
     "_id": "ObjectId()",
-    "marca": "Oakley",
+    "marca": "Oakley", 
+    "nombre_proveedor": "Distribuidor de Gafas", 
     "_id_proveedor": "ObjectId()",
     "graduacion": {
       "izq": 0.0,
@@ -17,8 +18,9 @@
     "compradas_por": 
     [
       {
-    "_id_cliente": "ObjectId()",
-        }
+    "_id_Cliente": "ObjectId()",
+    "nombre": "Juan Pérez",
+      }
     ],
     }
   }
